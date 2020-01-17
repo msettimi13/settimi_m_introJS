@@ -1,0 +1,9 @@
+.img-wrapper {
+  display: inline-block;
+  width: 35%;
+  padding: 10px 15px;
+}
+
+.img-wrapper > img {
+  width: 100%;
+}
